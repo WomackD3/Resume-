@@ -1,0 +1,26 @@
+{
+  "name": "Denard Womack",
+  "website": "https://github.com/WomackD3",
+  "linkedin": "www.linkedin.com/in/denard-womack",
+  "github": "https://github.com/WomackD3",
+  "email": "D_Wom3@yahoo.com",
+  "resume": " ",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal"
+  ],
+  "otherSkills": [
+      "Football",
+      "Mechanic",
+      "Professionl CDL Trainer"
+  ]
+}
